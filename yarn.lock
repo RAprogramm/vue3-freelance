@@ -2762,7 +2762,7 @@ __metadata:
 
 "body-parser@npm:1.19.0":
   version: 1.19.0
-  resolution: "body-parser@npm:1.19.0::__archiveUrl=https%3A%2F%2Fregistry.npm.taobao.org%2Fbody-parser%2Fdownload%2Fbody-parser-1.19.0.tgz"
+  resolution: "body-parser@npm:1.19.0"
   dependencies:
     bytes: 3.1.0
     content-type: ~1.0.4
